@@ -1,0 +1,67 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Documents and Settings\Rahul\Desktop\DTMF appliances\rht.uv2
+Project File Date:  09/14/2009
+
+<h2>Output:</h2>
+compiling rht.c...
+RHT.C(18): error C202: 'sbuf': undefined identifier
+rht.c - 1 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling rht.c...
+RHT.C(18): error C202: 'sbuf': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling rht.c...
+RHT.C(18): error C202: 'sbuf': undefined identifier
+Target not created
+compiling rht.c...
+RHT.C(18): error C202: 'X': undefined identifier
+rht.c - 1 Error(s), 0 Warning(s).
+compiling rht.c...
+rht.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=51
+"rht" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling rht.c...
+linking...
+Program Size: data=9.0 xdata=0 code=51
+"rht" - 0 Error(s), 0 Warning(s).
+compiling rht.c...
+rht.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=51
+"rht" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling rht.c...
+linking...
+Program Size: data=9.0 xdata=0 code=51
+"rht" - 0 Error(s), 0 Warning(s).
+compiling rht.c...
+rht.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=51
+"rht" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling rht.c...
+linking...
+Program Size: data=9.0 xdata=0 code=51
+"rht" - 0 Error(s), 0 Warning(s).
+compiling rht.c...
+rht.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=9.0 xdata=0 code=51
+"rht" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling rht.c...
+linking...
+Program Size: data=9.0 xdata=0 code=51
+"rht" - 0 Error(s), 0 Warning(s).
